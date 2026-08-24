@@ -165,51 +165,61 @@ DreamCollege is a student-focused platform designed around the college applicati
 
 </div>
 
-📊 GitHub — Building in Public
+📊 GitHub — Live Statistics
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
+<!-- These are live Shields.io badges backed by GitHub data. -->
 
-<img src="https://img.shields.io/badge/3-PUBLIC%20REPOSITORIES-ff7043?style=for-the-badge" alt="3 public repositories"/>
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/3-TOTAL%20STARS-111827?style=for-the-badge&logo=github" alt="3 GitHub stars"/>
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/2-FOLLOWERS-111827?style=for-the-badge&logo=github" alt="2 GitHub followers"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Bisman-Singh-Dev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="Bisman's GitHub statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bisman-Singh-Dev&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Bisman's most used languages"/>
+<a href="https://github.com/Bisman-Singh-Dev">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBisman--Singh--Dev&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&color=ff7043" alt="Live public repository count"/>
+</a>
+<a href="https://github.com/Bisman-Singh-Dev">
+  <img src="https://img.shields.io/github/stars/Bisman-Singh-Dev?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=111827" alt="Live total GitHub stars"/>
+</a>
+<a href="https://github.com/Bisman-Singh-Dev">
+  <img src="https://img.shields.io/github/followers/Bisman-Singh-Dev?style=for-the-badge&logo=github&label=FOLLOWERS&color=111827" alt="Live GitHub followers"/>
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Bisman-Singh-Dev&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+⚡ Live GitHub Activity
+
+<img src="https://ghchart.rshah.org/ff7043/Bisman-Singh-Dev" alt="Bisman Singh GitHub contribution graph" width="95%"/>
+
+<br/>
+
+<sub>
+Contribution activity is pulled from GitHub by the chart service.
+</sub>
 
 </div>
 
-📈 Contribution Graph
+📈 What These Numbers Mean
 
 <div align="center">
 
-<a href="https://github.com/Bisman-Singh-Dev">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bisman-Singh-Dev&bg_color=00000000&color=ff7043&line=ff7043&point=ff9966&area=true&hide_border=true&custom_title=Bisman's%20Contribution%20Graph" width="96%" alt="Bisman's GitHub contribution graph"/>
-</a>
+📦 Repositories
+
+⭐ Stars
+
+👥 Followers
+
+Live from GitHub
+
+Live from GitHub
+
+Live from GitHub
+
+Projects I've published
+
+People who starred my work
+
+People following my work
 
 </div>
+
+🔄 No hard-coded numbers here. The repository, star and follower counters are dynamic badges, so they can update as your GitHub profile changes. Shields.io provides dynamic GitHub-backed badges, while the contribution chart is generated from GitHub contribution data. citeturn3search0turn2search4
 
 🚀 Featured Work
 
@@ -237,11 +247,9 @@ DreamCollege is a student-focused platform designed around the college applicati
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Bisman-Singh-Dev/Bisman-Singh-Dev/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+<img src="https://ghchart.rshah.org/ff7043/Bisman-Singh-Dev" alt="GitHub contribution activity" width="95%"/>
 
 </div>
-
-Note: The snake requires a GitHub Actions workflow in the profile repository to generate the SVG.
 
 🧩 What I Build
 
