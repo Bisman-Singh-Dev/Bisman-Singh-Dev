@@ -165,26 +165,26 @@ DreamCollege is a student-focused platform designed around the college applicati
 
 <div align="center">
 
-<a href="https://github.com/Bisman-Singh-Dev">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBisman--Singh--Dev&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&color=ff7043" alt="Public Repositories"/>
+<a href="https://github.com/Bisman-Singh-Dev?tab=repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBisman-Singh-Dev&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&color=ff7043" alt="Public Repositories"/>
 </a>
 &nbsp;
 <a href="https://github.com/Bisman-Singh-Dev">
   <img src="https://img.shields.io/github/stars/Bisman-Singh-Dev?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=111827" alt="Total GitHub Stars"/>
 </a>
 &nbsp;
-<a href="https://github.com/Bisman-Singh-Dev">
+<a href="https://github.com/Bisman-Singh-Dev?tab=followers">
   <img src="https://img.shields.io/github/followers/Bisman-Singh-Dev?style=for-the-badge&logo=github&label=FOLLOWERS&color=111827" alt="Followers"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Bisman-Singh-Dev">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bisman-Singh-Dev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="Bisman's GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bisman-Singh-Dev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="Bisman's GitHub Stats"/>
 </a>
 &nbsp;
 <a href="https://github.com/Bisman-Singh-Dev">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bisman-Singh-Dev&layout=compact&hide_border=true&langs_count=6&theme=tokyonight" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bisman-Singh-Dev&layout=compact&hide_border=true&langs_count=6&theme=tokyonight" alt="Top Languages"/>
 </a>
 
 <br/><br/>
@@ -202,11 +202,11 @@ DreamCollege is a student-focused platform designed around the college applicati
 <div align="center">
 
 <a href="https://github.com/Bisman-Singh-Dev/YOLO-Pothole-Detection-Model">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bisman-Singh-Dev&repo=YOLO-Pothole-Detection-Model&hide_border=true&theme=tokyonight" alt="YOLO Pothole Detection Model"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Bisman-Singh-Dev&repo=YOLO-Pothole-Detection-Model&hide_border=true&theme=tokyonight" alt="YOLO Pothole Detection Model"/>
 </a>
 &nbsp;
-<a href="https://github.com/Bisman-Singh-Dev/Dream-College">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bisman-Singh-Dev&repo=Dream-College&hide_border=true&theme=tokyonight" alt="DreamCollege"/>
+<a href="https://github.com/Bisman-Singh-Dev/vitallens">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Bisman-Singh-Dev&repo=vitallens&hide_border=true&theme=tokyonight" alt="VitalLens"/>
 </a>
 
 </div>
