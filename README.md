@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <!--                              HERO                                     -->
-
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ff512f,100:ff9966&text=Bisman%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Robotics%20%7C%20AI%2FML%20%7C%20Mechatronics%20%7C%20Builder&descAlignY=60&descSize=18" width="100%" alt="Bisman Singh header"/>
@@ -37,29 +35,29 @@
 
 </div>
 
-🧠 About Me
+---
 
-Hi! I'm Bisman Singh — a high-school student from 🇮🇳 India passionate about Robotics, Artificial Intelligence, Machine Learning, Computer Vision and Mechatronics.
+## 🧠 About Me
 
-I like building at the intersection of software + hardware: taking an idea, turning it into a prototype, adding intelligence, and eventually making it useful in the real world.
+Hi! I'm **Bisman Singh** — a high-school student from 🇮🇳 India passionate about **Robotics, Artificial Intelligence, Machine Learning, Computer Vision and Mechatronics**.
 
-Idea → Prototype → Code → Hardware → Intelligence → Impact 🚀
+I love building at the intersection of software and hardware: taking an idea, engineering a physical or algorithmic prototype, adding intelligence, and deploying it into the real world.
 
-🔭 Currently exploring
+> **Idea → Prototype → Code → Hardware → Intelligence → Impact 🚀**
 
-🤖 Robotics & intelligent autonomous systems
+---
 
-🧠 AI / ML and computer vision
+### 🔭 Currently Exploring & Engineering
+- 🤖 **Robotics & Autonomous Systems:** Intelligent navigation, sensor fusion, inverse kinematics, and actuator control.
+- 🧠 **Computer Vision & Deep Learning:** YOLO11/v8 object detection, semantic segmentation, real-time spatial telemetry.
+- 🌐 **Local LLMs & Agentic AI:** Edge inference, embedded AI applications, and offline-capable models.
+- ⚙️ **Embedded & Mechatronics:** STM32, Arduino, ESP32, micro-controllers, and custom circuit design.
+- 💻 **Full-Stack Engineering:** High-performance web applications, interactive dashboards, and developer tools.
+- 🏗️ **Entrepreneurship:** Building real-world student and community products that solve genuine pain points.
 
-🌐 Local LLMs and AI-powered applications
+---
 
-⚙️ Embedded systems, sensors and microcontrollers
-
-💻 Full-stack development for real-world products
-
-🏗️ Turning student projects into useful products
-
-🎯 My North Star
+## 🎯 My North Star
 
 <div align="center">
 
@@ -67,40 +65,28 @@ Idea → Prototype → Code → Hardware → Intelligence → Impact 🚀
 <tr>
 <td align="center" width="33%">
 
-🏆 ISEF
-
-Goal: compete at the
-Regeneron International Science and Engineering Fair
-
-🔬 Research
-🧪 Experimentation
-🚀 Innovation
+### 🏆 ISEF
+**Regeneron International Science and Engineering Fair**
+<br/>
+🔬 Research • 🧪 Experimentation • 🚀 Engineering Innovation
 
 </td>
 
 <td align="center" width="33%">
 
-🌎 YYGS
-
-Goal: earn selection to
-Yale Young Global Scholars
-
-🌍 Global community
-🧠 Academic exploration
-🤝 Collaboration
+### 🌎 YYGS
+**Yale Young Global Scholars**
+<br/>
+🌍 Global Community • 🧠 Academic Exploration • 🤝 Collaboration
 
 </td>
 
 <td align="center" width="33%">
 
-🎓 MIT
-
-Long-term goal: pursue a
-Bachelor's in Robotics + AI/ML
-
-🤖 Robotics
-🧠 AI / ML
-⚙️ Engineering
+### 🎓 MIT
+**Massachusetts Institute of Technology**
+<br/>
+🤖 Robotics • 🧠 AI / ML • ⚙️ Mechatronics & Systems
 
 </td>
 </tr>
@@ -112,78 +98,122 @@ Bachelor's in Robotics + AI/ML
 
 </div>
 
-🏢 My Venture — DreamCollege
+---
+
+## 🏢 My Venture — DreamCollege
 
 <div align="center">
 
 <a href="https://www.dreamcollege.co.in/">
-  <img src="./assets/dreamcollege-logo.png" width="210" alt="DreamCollege logo"/>
+  <img src="https://raw.githubusercontent.com/Bisman-Singh-Dev/Bisman-Singh-Dev/main/assets/dreamcollege-logo.png" width="180" alt="DreamCollege logo" style="border-radius: 50%; box-shadow: 0 4px 20px rgba(255, 112, 67, 0.3);"/>
 </a>
 
-<br/><br/>
+### **DreamCollege 🎓**
+*Pathway To Your Dream School*
 
-DreamCollege 🎓
-
-Your Pathway To Your Dream School
-
-DreamCollege is a student-focused platform designed around the college application journey — helping students discover opportunities, find guidance, explore colleges and connect with a community of peers.
+DreamCollege is a student-focused platform designed around the college application journey — helping students discover world-class opportunities, find guidance, explore universities, and connect with a collaborative community of peers.
 
 <br/>
 
 <a href="https://www.dreamcollege.co.in/">
-<img src="https://img.shields.io/badge/🌐%20Visit%20DreamCollege-FF7043?style=for-the-badge" alt="Visit DreamCollege"/>
+  <img src="https://img.shields.io/badge/🌐%20Visit%20DreamCollege-FF7043?style=for-the-badge" alt="Visit DreamCollege"/>
 </a>
+&nbsp;
 <a href="https://github.com/Bisman-Singh-Dev/Dream-College">
-<img src="https://img.shields.io/badge/💻%20GitHub%20Repository-181717?style=for-the-badge&logo=github" alt="DreamCollege repository"/>
+  <img src="https://img.shields.io/badge/💻%20GitHub%20Repository-181717?style=for-the-badge&logo=github" alt="DreamCollege repository"/>
 </a>
 
 </div>
 
-🛠️ Technology I Work With
+---
+
+## 🛠️ Technology & Tools
 
 <div align="center">
 
-🤖 AI • ML • Computer Vision
+#### 🤖 AI • Machine Learning • Computer Vision
+<p>
+  <a href="https://opencv.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="46" height="46" alt="OpenCV"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="46" height="46" alt="PyTorch"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="46" height="46" alt="TensorFlow"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="46" height="46" alt="Scikit-learn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ultralytics/ultralytics"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/social/logo-transparent.png" width="46" height="46" alt="YOLO Ultralytics"/></a>
+</p>
 
-<a href="https://opencv.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" alt="OpenCV"/></a> 
-<a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" alt="PyTorch"/></a> 
-<a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" alt="TensorFlow"/></a> 
-<a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" alt="Scikit-learn"/></a>
+#### 💻 Software & Web Development
+<p>
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="46" height="46" alt="Python"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="46" height="46" alt="TypeScript"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="46" height="46" alt="JavaScript"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="46" height="46" alt="React"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="46" height="46" alt="Tailwind CSS"/></a>
+</p>
 
-💻 Software • Web
-
-<a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript"/></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/></a> 
-<a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/></a> 
-<a href="https://www.w3.org/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/></a> 
-<a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" alt="Tailwind CSS"/></a>
-
-🔧 Hardware • Embedded
-
-<a href="https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" alt="Arduino"/></a> 
-<a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="Firebase"/></a>
+#### 🔧 Hardware & Systems
+<p>
+  <a href="https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="46" height="46" alt="Arduino"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.cplusplus.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="46" height="46" alt="C++"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="46" height="46" alt="Firebase"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="46" height="46" alt="Git"/></a>
+</p>
 
 </div>
 
-📊 GitHub — Live Statistics
+---
+
+## 📊 GitHub — Live Statistics
 
 <div align="center">
 
-<!-- These are live Shields.io badges backed by GitHub data. -->
-
 <a href="https://github.com/Bisman-Singh-Dev">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBisman--Singh--Dev&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&color=ff7043" alt="Live public repository count"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBisman--Singh--Dev&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&color=ff7043" alt="Public Repositories"/>
 </a>
+&nbsp;
 <a href="https://github.com/Bisman-Singh-Dev">
-  <img src="https://img.shields.io/github/stars/Bisman-Singh-Dev?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=111827" alt="Live total GitHub stars"/>
+  <img src="https://img.shields.io/github/stars/Bisman-Singh-Dev?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=111827" alt="Total GitHub Stars"/>
 </a>
+&nbsp;
 <a href="https://github.com/Bisman-Singh-Dev">
-  <img src="https://img.shields.io/github/followers/Bisman-Singh-Dev?style=for-the-badge&logo=github&label=FOLLOWERS&color=111827" alt="Live GitHub followers"/>
+  <img src="https://img.shields.io/github/followers/Bisman-Singh-Dev?style=for-the-badge&logo=github&label=FOLLOWERS&color=111827" alt="Followers"/>
 </a>
 
 <br/><br/>
 
-🧩 What I Build
+<a href="https://github.com/Bisman-Singh-Dev">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bisman-Singh-Dev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="Bisman's GitHub Stats"/>
+</a>
+&nbsp;
+<a href="https://github.com/Bisman-Singh-Dev">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bisman-Singh-Dev&layout=compact&hide_border=true&langs_count=6&theme=tokyonight" alt="Top Languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Bisman-Singh-Dev">
+  <img src="https://streak-stats.demolab.com?user=Bisman-Singh-Dev&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
+</a>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Bisman-Singh-Dev/YOLO-Pothole-Detection-Model">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bisman-Singh-Dev&repo=YOLO-Pothole-Detection-Model&hide_border=true&theme=tokyonight" alt="YOLO Pothole Detection Model"/>
+</a>
+&nbsp;
+<a href="https://github.com/Bisman-Singh-Dev/Dream-College">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bisman-Singh-Dev&repo=Dream-College&hide_border=true&theme=tokyonight" alt="DreamCollege"/>
+</a>
+
+</div>
+
+---
+
+## 🧩 What I Build
 
 <div align="center">
 
@@ -191,33 +221,29 @@ DreamCollege is a student-focused platform designed around the college applicati
 <tr>
 <td align="center" width="25%">
 
-🤖 Robotics
-
-Intelligent machines, sensors, embedded systems and automation.
-
-</td>
-
-<td align="center" width="25%">
-
-🧠 AI / ML
-
-Computer vision, machine learning and intelligent applications.
+### 🤖 Robotics
+Intelligent autonomous machines, real-time sensor processing, embedded systems, and automation.
 
 </td>
 
 <td align="center" width="25%">
 
-💻 Software
-
-Web applications and tools that turn ideas into usable products.
+### 🧠 AI / ML
+Computer vision, deep neural networks, edge models, and intelligent automated workflows.
 
 </td>
 
 <td align="center" width="25%">
 
-🚀 Ventures
+### 💻 Software
+Responsive, modern web applications, dashboards, and developer tooling.
 
-Building products around problems worth solving.
+</td>
+
+<td align="center" width="25%">
+
+### 🚀 Ventures
+Transforming ambitious ideas into impactful products that empower users worldwide.
 
 </td>
 </tr>
@@ -225,51 +251,43 @@ Building products around problems worth solving.
 
 </div>
 
-📌 My Current Mission
+---
+
+## 📌 My Engineering Journey
 
 <div align="center">
 
-Learn → Build → Research → Compete → Impact
-
-<br/>
-
-📚 Learn deeply
-↓
-🔬 Research real problems
-↓
-🤖 Build intelligent systems
-↓
-🏆 Compete at the highest level
-↓
-🌍 Create meaningful impact
+```
+  📚 Learn Deeply  →  🔬 Research Problems  →  🤖 Build Systems  →  🏆 Compete Globally  →  🌍 Create Impact
+```
 
 </div>
 
-🌐 Connect
+---
+
+## 🌐 Connect & Collaborate
 
 <div align="center">
 
 <a href="https://github.com/Bisman-Singh-Dev">
-<img src="https://img.shields.io/badge/GitHub-Bisman--Singh--Dev-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Bisman--Singh--Dev-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-
+&nbsp;
 <a href="https://www.dreamcollege.co.in/">
-<img src="https://img.shields.io/badge/DreamCollege-FF7043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DreamCollege"/>
+  <img src="https://img.shields.io/badge/DreamCollege-FF7043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DreamCollege"/>
 </a>
-
+&nbsp;
 <a href="https://orcid.org/0009-0009-6133-223X">
-<img src="https://img.shields.io/badge/ORCID-0009--0009--6133--223X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+  <img src="https://img.shields.io/badge/ORCID-0009--0009--6133--223X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
 </a>
-
+&nbsp;
 <a href="mailto:Millinia70@gmail.com">
-<img src="https://img.shields.io/badge/Email-Millinia70%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Millinia70%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-🚀 Building today for the engineer I want to become tomorrow.
+**🚀 Building today for the engineer I want to become tomorrow.**
 
 <br/>
 
