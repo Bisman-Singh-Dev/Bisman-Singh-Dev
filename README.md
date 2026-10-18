@@ -22,8 +22,8 @@
 <a href="https://github.com/Bisman-Singh-Dev">
   <img src="https://img.shields.io/badge/GitHub-Bisman--Singh--Dev-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-<a href="https://www.dreamcollege.co.in/">
-  <img src="https://img.shields.io/badge/DreamCollege-FF7043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DreamCollege"/>
+<a href="https://www.wishcollege.co.in/">
+  <img src="https://img.shields.io/badge/WishCollege-FF7043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WishCollege"/>
 </a>
 <a href="mailto:Millinia70@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -100,27 +100,27 @@ I love building at the intersection of software and hardware: taking an idea, en
 
 ---
 
-## 🏢 My Venture — DreamCollege
+## 🏢 My Venture — Wish College
 
 <div align="center">
 
-<a href="https://www.dreamcollege.co.in/">
-  <img src="https://raw.githubusercontent.com/Bisman-Singh-Dev/Bisman-Singh-Dev/main/assets/dreamcollege-logo.png" width="180" alt="DreamCollege logo" style="border-radius: 50%; box-shadow: 0 4px 20px rgba(255, 112, 67, 0.3);"/>
+<a href="https://www.wishcollege.co.in/">
+  <img src="https://raw.githubusercontent.com/Bisman-Singh-Dev/Bisman-Singh-Dev/main/assets/wishcollege-logo.png" width="180" alt="Wish College logo" style="border-radius: 50%; box-shadow: 0 4px 20px rgba(255, 112, 67, 0.3);"/>
 </a>
 
-### **DreamCollege 🎓**
+### **Wish College 🎓**
 *Pathway To Your Dream School*
 
-DreamCollege is a student-focused platform designed around the college application journey — helping students discover world-class opportunities, find guidance, explore universities, and connect with a collaborative community of peers.
+Wish College is a student-focused platform designed around the college application journey — helping students discover world-class opportunities, find guidance, explore universities, and connect with a collaborative community of peers.
 
 <br/>
 
-<a href="https://www.dreamcollege.co.in/">
-  <img src="https://img.shields.io/badge/🌐%20Visit%20DreamCollege-FF7043?style=for-the-badge" alt="Visit DreamCollege"/>
+<a href="https://www.wishcollege.co.in/">
+  <img src="https://img.shields.io/badge/🌐%20Visit%20Wish%20College-FF7043?style=for-the-badge" alt="Visit Wish College"/>
 </a>
 &nbsp;
-<a href="https://github.com/Bisman-Singh-Dev/Dream-College">
-  <img src="https://img.shields.io/badge/💻%20GitHub%20Repository-181717?style=for-the-badge&logo=github" alt="DreamCollege repository"/>
+<a href="https://github.com/Bisman-Singh-Dev/Wish-College">
+  <img src="https://img.shields.io/badge/💻%20GitHub%20Repository-181717?style=for-the-badge&logo=github" alt="Wish College repository"/>
 </a>
 
 </div>
@@ -273,8 +273,8 @@ Transforming ambitious ideas into impactful products that empower users worldwid
   <img src="https://img.shields.io/badge/GitHub-Bisman--Singh--Dev-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://www.dreamcollege.co.in/">
-  <img src="https://img.shields.io/badge/DreamCollege-FF7043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DreamCollege"/>
+<a href="https://www.wishcollege.co.in/">
+  <img src="https://img.shields.io/badge/WishCollege-FF7043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WishCollege"/>
 </a>
 &nbsp;
 <a href="https://orcid.org/0009-0009-6133-223X">
