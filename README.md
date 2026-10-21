@@ -109,7 +109,7 @@ I love building at the intersection of software and hardware: taking an idea, en
 </a>
 
 ### **Wish College 🎓**
-*Pathway To Your Dream School*
+*Pathway To Your Dream College*
 
 Wish College is a student-focused platform designed around the college application journey — helping students discover world-class opportunities, find guidance, explore universities, and connect with a collaborative community of peers.
 
