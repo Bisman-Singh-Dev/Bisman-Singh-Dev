@@ -115,7 +115,7 @@ Wish College is a student-focused platform designed around the college applicati
 
 <br/>
 
-<a href="https://www.wishcollege.co.in/">
+<a href="https://www.wishcollege.com/">
   <img src="https://img.shields.io/badge/🌐%20Visit%20Wish%20College-FF7043?style=for-the-badge" alt="Visit Wish College"/>
 </a>
 &nbsp;
