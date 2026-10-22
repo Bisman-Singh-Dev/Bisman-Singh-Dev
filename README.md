@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -24,6 +25,9 @@
 </a>
 <a href="https://www.wishcollege.com/">
   <img src="https://img.shields.io/badge/WishCollege-FF7043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WishCollege"/>
+</a>
+<a href="https://bismansingh.vercel.app/">
+  <img src="https://img.shields.io/badge/Personal%20Portfolio-Bisman%20Singh-FF7043?style=for-the-badge&logo=vercel&logoColor=white" alt="Bisman Singh Portfolio"/>
 </a>
 <a href="mailto:Millinia70@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -275,6 +279,10 @@ Transforming ambitious ideas into impactful products that empower users worldwid
 &nbsp;
 <a href="https://www.wishcollege.co.in/">
   <img src="https://img.shields.io/badge/WishCollege-FF7043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WishCollege"/>
+</a>
+&nbsp;
+<a href="https://bismansingh.vercel.app/">
+  <img src="https://img.shields.io/badge/Personal%20Portfolio-Bisman%20Singh-FF7043?style=for-the-badge&logo=vercel&logoColor=white" alt="Bisman Singh Portfolio"/>
 </a>
 &nbsp;
 <a href="https://orcid.org/0009-0009-6133-223X">
