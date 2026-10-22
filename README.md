@@ -22,7 +22,7 @@
 <a href="https://github.com/Bisman-Singh-Dev">
   <img src="https://img.shields.io/badge/GitHub-Bisman--Singh--Dev-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-<a href="https://www.wishcollege.co.in/">
+<a href="https://www.wishcollege.com/">
   <img src="https://img.shields.io/badge/WishCollege-FF7043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WishCollege"/>
 </a>
 <a href="mailto:Millinia70@gmail.com">
